@@ -1,13 +1,13 @@
-package week.week5h2.business;
+package programinglanguage.business;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import week.week5h2.dto.request.ProgramingLanguageRequestDTO;
-import week.week5h2.dto.response.ProgramingLanguageResponseDTO;
-import week.week5h2.dto.response.SubTechnologyResponseDTO;
-import week.week5h2.entity.ProgramingLanguageEntity;
-import week.week5h2.entity.SubTechnologyEntity;
-import week.week5h2.repository.ProgramingLanguageRepository;
+import programinglanguage.dto.request.ProgramingLanguageRequestDTO;
+import programinglanguage.dto.response.SubTechnologyResponseDTO;
+import programinglanguage.entity.SubTechnologyEntity;
+import programinglanguage.repository.ProgramingLanguageRepository;
+import programinglanguage.dto.response.ProgramingLanguageResponseDTO;
+import programinglanguage.entity.ProgramingLanguageEntity;
 
 import java.util.ArrayList;
 import java.util.List;

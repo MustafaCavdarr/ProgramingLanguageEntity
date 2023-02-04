@@ -1,4 +1,4 @@
-package week.week5h2.dto.response;
+package programinglanguage.dto.response;
 
 import lombok.Data;
 import java.util.List;

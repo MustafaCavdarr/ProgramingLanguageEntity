@@ -1,7 +1,7 @@
-package week.week5h2.business;
+package programinglanguage.business;
 
-import week.week5h2.dto.request.ProgramingLanguageRequestDTO;
-import week.week5h2.dto.response.ProgramingLanguageResponseDTO;
+import programinglanguage.dto.request.ProgramingLanguageRequestDTO;
+import programinglanguage.dto.response.ProgramingLanguageResponseDTO;
 
 import java.util.List;
 

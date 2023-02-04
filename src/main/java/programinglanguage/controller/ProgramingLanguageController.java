@@ -1,10 +1,10 @@
-package week.week5h2.controller;
+package programinglanguage.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import week.week5h2.business.ProgramingLanguageService;
-import week.week5h2.dto.request.ProgramingLanguageRequestDTO;
-import week.week5h2.dto.response.ProgramingLanguageResponseDTO;
+import programinglanguage.business.ProgramingLanguageService;
+import programinglanguage.dto.request.ProgramingLanguageRequestDTO;
+import programinglanguage.dto.response.ProgramingLanguageResponseDTO;
 
 import java.util.List;
 

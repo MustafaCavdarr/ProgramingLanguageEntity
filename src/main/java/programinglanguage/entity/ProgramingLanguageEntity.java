@@ -1,4 +1,4 @@
-package week.week5h2.entity;
+package programinglanguage.entity;
 
 import lombok.Data;
 
